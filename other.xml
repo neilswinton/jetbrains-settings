@@ -1,0 +1,35 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Users\nswin\.virtualenvs\glue-oSLr4G_a\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\.virtualenvs\venv\iotloader\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\.virtualenvs\venv\kafka-devices-table\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\venv\artifactserver\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\venv\data-abstraction\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\venv\dnxtest\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\venv\nifi-reporting\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_NOSETEST">
+      <map>
+        <entry key="C:\Users\nswin\.virtualenvs\glue-oSLr4G_a\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\.virtualenvs\venv\iotloader\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\.virtualenvs\venv\kafka-devices-table\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\venv\artifactserver\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\venv\data-abstraction\Scripts\python.exe" value="true" />
+        <entry key="C:\Users\nswin\venv\dnxtest\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\venv\nifi-reporting\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="C:\Users\nswin\.virtualenvs\glue-oSLr4G_a\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\.virtualenvs\venv\iotloader\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\.virtualenvs\venv\kafka-devices-table\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\venv\data-abstraction\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\nswin\venv\dnxtest\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
