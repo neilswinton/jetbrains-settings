@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\app\app.py [backend-server]'" />
-    <option name="defaultScopeName" value="File '...\app\app.py [backend-server]'" />
-    <option name="SEARCH_SCOPE" value="File '...\app\app.py [backend-server]'" />
+    <option name="customScope" value="Project 'backend-server'" />
+    <option name="defaultScopeName" value="Project 'backend-server'" />
+    <option name="SEARCH_SCOPE" value="Project 'backend-server'" />
   </component>
 </application>
