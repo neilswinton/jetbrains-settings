@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'kafka-devices-table'" />
-    <option name="defaultScopeName" value="Project 'kafka-devices-table'" />
-    <option name="SEARCH_SCOPE" value="Project 'kafka-devices-table'" />
+    <option name="customScope" value="Project 'k8snetprobe'" />
+    <option name="defaultScopeName" value="Project 'k8snetprobe'" />
+    <option name="SEARCH_SCOPE" value="Project 'k8snetprobe'" />
   </component>
 </application>
