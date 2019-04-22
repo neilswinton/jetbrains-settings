@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'k8snetprobe'" />
-    <option name="defaultScopeName" value="Project 'k8snetprobe'" />
-    <option name="SEARCH_SCOPE" value="Project 'k8snetprobe'" />
+    <option name="customScope" value="Project 'k8stester'" />
+    <option name="defaultScopeName" value="Project 'k8stester'" />
+    <option name="SEARCH_SCOPE" value="Project 'k8stester'" />
   </component>
 </application>
