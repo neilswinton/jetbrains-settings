@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="storage_connection_string" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="build" type="PLAIN_TEXT" />
       <mapping pattern="kafka_config" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
