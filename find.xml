@@ -1,9 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '...\app\kafkahandler.py [backend-server]'" />
-    <option name="defaultScopeName" value="File '...\app\kafkahandler.py [backend-server]'" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Project 'backend-server'" />
+    <option name="defaultScopeName" value="Project 'backend-server'" />
     <option name="localCaseSensitive" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\app\kafkahandler.py [backend-server]'" />
+    <option name="SEARCH_SCOPE" value="Project 'backend-server'" />
   </component>
 </application>
