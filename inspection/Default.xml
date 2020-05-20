@@ -1,6 +1,6 @@
 <profile version="1.0">
   <option name="myName" value="Default" />
-  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="true">
+  <inspection_tool class="SpellCheckingInspection" enabled="true" level="TYPO" enabled_by_default="false">
     <scope name="Skip Pipfiles/requirements.txt" level="TYPO" enabled="true">
       <option name="processCode" value="true" />
       <option name="processLiterals" value="true" />
